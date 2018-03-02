@@ -1,1 +1,2 @@
 # Dr.calorie
+Dr.Calorie adalah aplikasi yang memberikan rekomendasi makanan setiap harinya berdasarkan kalori yang dibutuhkan tubuh agar terpenuhi dengan baik dan tepat. Tujuan dibuatnya aplikasi ini adalah memberi rekomendasi makanan yang sesuai dengan kebutuhan kalori tubuh sehingga dapat terpenuhi dengan baik. Sasarannya ialah umur, karena aplikasi ini menggunakan perhitungan kalori dengan rumus Harris-Benedict yang menggunakan berat badan dan tinggi sebagai parameter perhitungan.
